@@ -1,0 +1,14 @@
+﻿{
+  "name": "ciam-marketplace",
+  "owner": {
+    "name": "CIAM Architecture Team"
+  },
+  "plugins": [
+    {
+      "name": "ciam-test-data",
+      "source": ".",
+      "description": "Synthetic CIAM test-data MCP tool, specialist agent, and skill.",
+      "version": "1.1.0"
+    }
+  ]
+}
